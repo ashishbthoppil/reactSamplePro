@@ -60,6 +60,7 @@ const minLength = (len) => (val) =>!(val) || (val.length) >= len
         }
 
         handleSubmit(values){
+            this.toggleModal();
             console.log("Current State is: " + JSON.stringify(values));
             alert("Current State is: " + JSON.stringify(values));
         }
