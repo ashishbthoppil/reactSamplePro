@@ -28,7 +28,7 @@ export const LEADERS = [
     },
     {
       id: 3,
-      name: 'Alberto Somayya',
+      name: 'Ashish B. Thoppil',
       image: '/assets/images/alberto.png',
       designation: 'Executive Chef',
       abbr: 'EC',
