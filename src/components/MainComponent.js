@@ -55,7 +55,7 @@ class Main extends Component{
       <div>
         <Header />
         <Switch>
-        <Route path={process.env.PUBLIC_URL + '/home'} component={HomePage} />
+          <Route path={process.env.PUBLIC_URL + '/home'} component={HomePage} />
           <Route exact path={process.env.PUBLIC_URL + '/menu'} component={() => <Menu dishes={this.props.dishes} />}/>
           <Route path={process.env.PUBLIC_URL + '/menu/:dishId'} component={DishWithId} />
           <Route exact path={process.env.PUBLIC_URL + '/contactus'} component={Contact} />

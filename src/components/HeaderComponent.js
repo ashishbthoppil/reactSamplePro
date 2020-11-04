@@ -3,7 +3,7 @@ import { Jumbotron, Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem,
 Button, Modal, ModalHeader, ModalBody, FormGroup, Label, Input, Form } from 'reactstrap';
 import {NavLink} from 'react-router-dom';
 class Header extends Component { 
-    
+
 
     constructor(props) {
         super(props);
@@ -46,22 +46,22 @@ class Header extends Component {
                         <Collapse isOpen={this.state.isNavOpen} navbar>
                         <Nav navbar>
                             <NavItem>
-                                <NavLink className="nav-link" to="/home">
+                                <NavLink className="nav-link" to={process.env.PUBLIC_URL + "/home"}>
                                     <span className="fa fa-home fa-lg"></span> Home
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link" to="/aboutus">
+                                <NavLink className="nav-link" to={process.env.PUBLIC_URL + "/aboutus"}>
                                     <span className="fa fa-info fa-lg"></span> About Us
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link" to="/menu">
+                                <NavLink className="nav-link" to={process.env.PUBLIC_URL + "/menu"}>
                                     <span className="fa fa-list fa-lg"></span> Menu
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link" to="/contactus">
+                                <NavLink className="nav-link" to={process.env.PUBLIC_URL + "/contactus"}>
                                     <span className="fa fa-address-card fa-lg"></span> Contact Us
                                 </NavLink>
                             </NavItem>
