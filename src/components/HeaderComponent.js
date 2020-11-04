@@ -46,8 +46,8 @@ class Header extends Component {
                         <Collapse isOpen={this.state.isNavOpen} navbar>
                         <Nav navbar>
                             <NavItem>
-                                <NavLink className="nav-link" to={process.env.PUBLIC_URL + "/home"}>
-                                    <span className="fa fa-home fa-lg"></span> Home
+                                <NavLink className="nav-link" to="/home">
+                                    <span className="fa fa-home fa-lg"></span> {process.env.PUBLIC_URL}
                                 </NavLink>
                             </NavItem>
                             <NavItem>
