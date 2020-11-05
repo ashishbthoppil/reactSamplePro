@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ristoranteConFusion/static/css/main.99006c1f.chunk.css",
-    "main.js": "/ristoranteConFusion/static/js/main.bb67b899.chunk.js",
-    "main.js.map": "/ristoranteConFusion/static/js/main.bb67b899.chunk.js.map",
+    "main.js": "/ristoranteConFusion/static/js/main.9046bd5a.chunk.js",
+    "main.js.map": "/ristoranteConFusion/static/js/main.9046bd5a.chunk.js.map",
     "runtime-main.js": "/ristoranteConFusion/static/js/runtime-main.4000d28e.js",
     "runtime-main.js.map": "/ristoranteConFusion/static/js/runtime-main.4000d28e.js.map",
     "static/css/2.f657b34d.chunk.css": "/ristoranteConFusion/static/css/2.f657b34d.chunk.css",
-    "static/js/2.82ff8fbe.chunk.js": "/ristoranteConFusion/static/js/2.82ff8fbe.chunk.js",
-    "static/js/2.82ff8fbe.chunk.js.map": "/ristoranteConFusion/static/js/2.82ff8fbe.chunk.js.map",
+    "static/js/2.f04c043d.chunk.js": "/ristoranteConFusion/static/js/2.f04c043d.chunk.js",
+    "static/js/2.f04c043d.chunk.js.map": "/ristoranteConFusion/static/js/2.f04c043d.chunk.js.map",
     "static/js/3.116e0e21.chunk.js": "/ristoranteConFusion/static/js/3.116e0e21.chunk.js",
     "static/js/3.116e0e21.chunk.js.map": "/ristoranteConFusion/static/js/3.116e0e21.chunk.js.map",
     "index.html": "/ristoranteConFusion/index.html",
     "static/css/2.f657b34d.chunk.css.map": "/ristoranteConFusion/static/css/2.f657b34d.chunk.css.map",
     "static/css/main.99006c1f.chunk.css.map": "/ristoranteConFusion/static/css/main.99006c1f.chunk.css.map",
-    "static/js/2.82ff8fbe.chunk.js.LICENSE.txt": "/ristoranteConFusion/static/js/2.82ff8fbe.chunk.js.LICENSE.txt",
+    "static/js/2.f04c043d.chunk.js.LICENSE.txt": "/ristoranteConFusion/static/js/2.f04c043d.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/ristoranteConFusion/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4000d28e.js",
     "static/css/2.f657b34d.chunk.css",
-    "static/js/2.82ff8fbe.chunk.js",
+    "static/js/2.f04c043d.chunk.js",
     "static/css/main.99006c1f.chunk.css",
-    "static/js/main.bb67b899.chunk.js"
+    "static/js/main.9046bd5a.chunk.js"
   ]
 }
